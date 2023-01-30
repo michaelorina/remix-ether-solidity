@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getStudent1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/6_Struts.sol": "Student"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/6_Struts.sol": {
+			"keccak256": "0x07b46f5b48ca1d918cfc27e452a2df4149834816927de3771f5029891dd5b7a7",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9d300cb072f887906fad5aceadf3c67740d94ba4788008dbb5306235c62e46fd",
+				"dweb:/ipfs/QmTpVQbd4qLT6Nt7EP5a4YzHNAKsVrKfZCRedKRFoN3j27"
+			]
+		}
+	},
+	"version": 1
+}
